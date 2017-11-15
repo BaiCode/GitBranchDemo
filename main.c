@@ -2,6 +2,7 @@ int main(int argc, char const *argv[])
 {
 	/* code */
 	printf("怎么产生冲突了");
+	printf("冲突解决");
 	return 0;
 }
 
