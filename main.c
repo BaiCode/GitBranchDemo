@@ -1,6 +1,7 @@
 int main(int argc, char const *argv[])
 {
 	/* code */
+	printf("怎么产生冲突了");
 	return 0;
 }
 
