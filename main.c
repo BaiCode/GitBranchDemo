@@ -1,6 +1,7 @@
 int main(int argc, char const *argv[])
 {
 	/* code */
+	printf("冲突解决");
 	return 0;
 }
 
